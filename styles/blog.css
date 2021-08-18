@@ -11,8 +11,12 @@
 body {
     font-family: Georgia, "Times New Roman", Times, serif;
     color: #555;
+    
 }
 
+html {
+    font: 14px;
+}    
 
 h1,
 .h1,
