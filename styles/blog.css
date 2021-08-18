@@ -4,7 +4,7 @@
 
 @media (min-width: 48em) {
     html {
-        font-size: 18px;
+        font-size: 14px;
     }
 }
 
@@ -13,10 +13,7 @@ body {
     color: #555;
     
 }
-
-html {
-    font: 14px;
-}    
+    
 
 h1,
 .h1,
